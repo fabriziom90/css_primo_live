@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.container{
+    max-width: 991px;
+    margin: 0 auto;
+}
+
 .red-square{
     width: 250px;
     height: 250px;
