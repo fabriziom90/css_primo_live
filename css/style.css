@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.red-square{
+    width: 250px;
+    height: 250px;
+    background: #ff0000;
+    text-align: center;
+    padding: 100px;
+    border: 1px solid black;
+}
+
+.blue-square{
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    text-align: center;
+    border: 1px solid black;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+    color: #fff;
+}
+
+.background-image-banner{
+    background-image: url('../img/placeholder1.jpg');
+    background-size: cover;
+    padding: 150px 250px;
+}
+
+.bg-lightgreen{
+    background-color:aquamarine;
+}
+
+.image-logo{
+    background-image: url('../img/mario.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.logo{
+    width: 200px;
+    padding-left: 75px;
+
+}
+
+
+
+
